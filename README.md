@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keshav Shivam </h1>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fboy-laptop&psig=AOvVaw28OHXp8yMmpB3TjejwKJ50&ust=1720163653970000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKD6r5DrjIcDFQAAAAAdAAAAABAE">
 
 - 🌱 I’m currently learning *React , Redux ,  MySQL ,*
 
