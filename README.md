@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keshav Shivam </h1>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5SQntNi68ASSiKFpRVzQOMfJCx5aYevH69w&s">
+<img align="right" alt="Coding" width="400" src="https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/18fafc59-b8f8-4cfd-adb0-ebda9da48e03/4721eea8-03cf-4935-aa3d-0e74bdd2d034.png">
 
 - 🌱 I’m currently learning *React , Redux ,  MySQL ,*
 
